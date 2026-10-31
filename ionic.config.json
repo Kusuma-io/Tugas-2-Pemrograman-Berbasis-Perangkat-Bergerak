@@ -1,0 +1,7 @@
+{
+  "name": "tugas2WeatherApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
